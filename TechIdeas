@@ -1,0 +1,16 @@
+Following are some project ideas in my mind
+
+1. AI that asks questions
+ - For a given chapter from your history book and then questions based on the content
+ - Eg, for a chapter on WW2, it can ask questions like, 
+              Time period of the war, War was against which two countries, Leasers involved,etc
+   Technologies used: NLP, Text Summarization
+
+2. App that teaches you to sing
+ - Given a song, it'll compare your singing to the original song and correct you on notes, expressions and pitch
+   Technologies - Audio analysis
+
+3. Reccomendation Engine
+ - The traditional recommendation engine that we have recommends ,say videos on youtube based on the what clips you saw.
+   But if something informative or educational videos come up in feed then it'll be better utilization of time on youtube
+   Technolgies - no clue!
